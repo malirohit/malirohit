@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **malirohitpandurang@gmail.com**
 
+- 🔗 Check out my <a href="https://rohitmali2004.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit mali" height="30" width="40" /></a>
+
 - ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
